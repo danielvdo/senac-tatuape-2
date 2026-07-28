@@ -8,7 +8,7 @@ O objetivo é documentar cada **Unidade Curricular (UC)**, facilitando o acompan
 ## Unidades Curriculares
 - **Lógica da Programação**
 - **Photoshop**
-- 
+- **banco de dados**
 
 ---
 
