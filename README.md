@@ -10,6 +10,7 @@ O objetivo é documentar cada **Unidade Curricular (UC)**, facilitando o acompan
 - **Photoshop**
 - **banco de dados**
 - **javascript**
+- **Eclipse**
 
 ---
 
